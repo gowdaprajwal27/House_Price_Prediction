@@ -90,3 +90,23 @@ The model is intended for educational purposes.
 
 ## 👨‍💻 Author
 Machine Learning Internship Project
+
+## Running the Improved Project
+
+### 1. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Train the model
+
+```bash
+python train_model.py
+```
+
+### 3. Predict house prices
+
+```bash
+python predict_house.py
+```
